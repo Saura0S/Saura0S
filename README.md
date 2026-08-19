@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,50:4facfe,100:000c40&height=220&section=header&text=Hi%2C%20I'm%20Saurabh%20(Saura0S)%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
@@ -14,11 +14,11 @@
   <a href="https://github.com/Saura0S">
     <img src="https://img.shields.io/github/followers/Saura0S?label=Followers&logo=github&style=for-the-badge&color=00f2fe&logoColor=white&labelColor=0d1117" alt="GitHub Followers" />
   </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-saurabh__4u__0-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" />
+  <a href="https://discord.gg/523wGqAP4W">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord Server" />
   </a>
-  <a href="https://instagram.com/saura0s">
-    <img src="https://img.shields.io/badge/Instagram-@saura0s-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
+  <a href="https://www.instagram.com/SAURABH_xt_0">
+    <img src="https://img.shields.io/badge/Instagram-@SAURABH__xt__0-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
   </a>
   <a href="https://tryhackme.com/p/Saura0S">
     <img src="https://img.shields.io/badge/TryHackMe-Saura0S-red?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" alt="TryHackMe" />
@@ -43,7 +43,7 @@ Philosophy: "Security is not a product, but a continuous process."
 * 🌱 **Currently Deepening**: Active Directory security, Web Application Penetration Testing (OWASP Top 10), and Cryptographic Protocols.
 * 🚩 **CTF & Hands-On Labs**: Actively training on [TryHackMe](https://tryhackme.com) and [Hack The Box](https://hackthebox.com).
 * 💬 **Ask Me About**: Python programming, Linux CLI & Bash scripting, Kali Linux tooling, and Network fundamentals.
-* 📫 **Reach Out**: Connect on Discord (`saurabh_4u_0`) or Instagram ([@saura0s](https://instagram.com/saura0s)).
+* 📫 **Reach Out**: Join my [Discord Server](https://discord.gg/523wGqAP4W) or connect on Instagram ([@SAURABH_xt_0](https://www.instagram.com/SAURABH_xt_0)).
 
 ---
 
@@ -138,12 +138,12 @@ Philosophy: "Security is not a product, but a continuous process."
 
 <div align="center">
 
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-saurabh__4u__0-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.gg/523wGqAP4W">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/saura0s">
-    <img src="https://img.shields.io/badge/Instagram-@saura0s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/SAURABH_xt_0">
+    <img src="https://img.shields.io/badge/Instagram-@SAURABH__xt__0-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://github.com/Saura0S">
