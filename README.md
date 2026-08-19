@@ -116,12 +116,20 @@ Philosophy: "Security is not a product, but a continuous process."
 ## 📊 Live GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saura0S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Saura0S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=c9d1d9" height="175" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saura0S&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e" height="175" alt="GitHub Streak" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saura0S&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Saura0S&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saura0S&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="95%" alt="Activity Graph" />
 </div>
 
 ---
