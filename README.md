@@ -92,14 +92,25 @@ Philosophy: "Security is not a product, but a continuous process."
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🛡️ <a href="https://github.com/Saura0S/AegisWeb">AegisWeb</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dual--Reporting-Executive_%26_Tech-00f2fe?style=flat-square" />
+        <img src="https://img.shields.io/badge/Audit-SSL_Headers_CORS-green?style=flat-square" />
+      </p>
+      <p>Enterprise-grade web security posture auditor and vulnerability scanner. Features automated SSL/TLS checks, cookie security auditing, sensitive file detection, SPF/DMARC spoofing defense, and dual-format reporting (Plain-English Executive vs Technical OWASP Deep-Dive).</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🕵️ <a href="https://github.com/Saura0S/ShadowOSINT">ShadowOSINT</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Recon-Subdomains-00f2fe?style=flat-square" />
+        <img src="https://img.shields.io/badge/Recon-Subdomains-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Audit-Security_Headers-green?style=flat-square" />
       </p>
-      <p>High-performance automated reconnaissance engine. Extracts subdomains from Certificate Transparency logs (crt.sh), executes concurrent DNS resolution, audits security headers (HSTS, CSP), and generates HTML/JSON intelligence reports.</p>
+      <p>High-performance automated reconnaissance engine. Extracts subdomains from Certificate Transparency logs (crt.sh), executes concurrent DNS resolution, audits security headers, and generates HTML/JSON intelligence reports.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔐 <a href="https://github.com/Saura0S/password-strength-checker">Password Strength Checker</a></h3>
       <p align="center">
@@ -109,16 +120,13 @@ Philosophy: "Security is not a product, but a continuous process."
       </p>
       <p>A Python-based password security analysis tool with GUI. Evaluates password strength, provides actionable hardening suggestions, and computes cryptographic SHA-256 hashes.</p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">📖 <a href="https://github.com/Saura0S/TryHackMe-Pre-Security-Complete-Notes-By-Saura0s">TryHackMe Pre-Security Notes</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TryHackMe-Pre--Security-red?style=flat-square&logo=tryhackme&logoColor=white" />
         <img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Hands--on-Lab_Notes-purple?style=flat-square" />
       </p>
-      <p align="center">Comprehensive structured notes and learning roadmaps covering Networking, Web Fundamentals, Linux, and Windows Security for hands-on cybersecurity learners.</p>
+      <p>Comprehensive structured notes and learning roadmaps covering Networking, Web Fundamentals, Linux, and Windows Security for hands-on cybersecurity learners.</p>
     </td>
   </tr>
 </table>
