@@ -1,11 +1,11 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:00f2fe,50:4facfe,100:000c40&height=220&section=header&text=Hi%2C%20I'm%20Saurabh%20(Saura0S)%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Saura0S">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Cybersecurity+Enthusiast+%26+Ethical+Hacker+🛡️;Python+%26+Linux+Tool+Developer+🐍;Offensive+Security+%26+CTF+Player+🚩;Building+Tools+for+a+Safer+Web+🔐" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Cybersecurity+Enthusiast+%26+Ethical+Hacker+🛡️;Offensive+Security+%26+Pentest+Tool+Developer+⚔️;Python+%26+Linux+Automation+Engineer+🐍;Building+Enterprise+AppSec+%26+OSINT+Tools+🔐" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -25,25 +25,37 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Saura0S&label=Profile%20Views&color=00f2fe&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 
+  <br/><br/>
+
+  <!-- Quick Navigation Bar -->
+  <p>
+    <a href="#-about-me"><b>About Me</b></a> •
+    <a href="#-cybersecurity-arsenal--tech-stack"><b>Arsenal</b></a> •
+    <a href="#-flagship-security-projects"><b>Flagship Projects</b></a> •
+    <a href="#-live-github-analytics"><b>Live Analytics</b></a> •
+    <a href="#-live-contribution-activity"><b>Contribution Snake</b></a> •
+    <a href="#-connect-with-me"><b>Connect</b></a>
+  </p>
+
 </div>
 
 ---
 
-## ⚡ Executive Summary
+## ⚡ About Me
 
 ```yaml
 Identity: Saurabh (Saura0S)
 Domain: Cybersecurity | Penetration Testing | Python Tooling
 Location: India 🇮🇳
-Current_Focus: Offensive Security, Threat Intelligence & Security Automation
-Philosophy: "Security is not a product, but a continuous process."
+Primary_Focus: Web Application Security (OWASP Top 10), OSINT & Automated Vulnerability Auditing
+Philosophy: "Security is not a product, but a continuous engineering process."
 ```
 
-* 🔭 **Active Projects**: Building high-performance security auditing suites, OSINT reconnaissance engines, and custom security scripts in Python.
-* 🌱 **Focus Areas**: Web Application Security (OWASP Top 10), Network Penetration Testing, Active Directory auditing, and Cryptographic protocols.
-* 🚩 **Continuous Training**: Active hands-on learning on [TryHackMe](https://tryhackme.com) & [Hack The Box](https://hackthebox.com).
-* 💬 **Ask Me About**: Python automation, Linux/Kali administration, Bash scripting, Network auditing, and Vulnerability analysis.
-* 📫 **Get in Touch**: Join the [Discord Community](https://discord.gg/523wGqAP4W) or reach out on Instagram ([@SAURABH_xt_0](https://www.instagram.com/SAURABH_xt_0)).
+* 🔭 **Active Projects**: Engineering automated vulnerability assessment suites ([`XTSec`](https://github.com/Saura0S/xtsec), [`AegisWeb`](https://github.com/Saura0S/AegisWeb)) and high-performance OSINT reconnaissance engines ([`ShadowOSINT`](https://github.com/Saura0S/ShadowOSINT)).
+* 🌱 **Focus Areas**: Web Application Penetration Testing, Attack Surface Management, Cryptographic Protocol Auditing, and DevSecOps Automation.
+* 🚩 **Continuous Training**: Active hands-on learning and CTF challenges on [TryHackMe](https://tryhackme.com) & [Hack The Box](https://hackthebox.com).
+* 💬 **Ask Me About**: Python automation, Kali Linux tools (Nmap, Burp Suite, Wireshark, Metasploit), Bash scripting, and OWASP compliance.
+* 📫 **Get in Touch**: Join the [Discord Community](https://discord.gg/523wGqAP4W) or connect on Instagram ([@SAURABH_xt_0](https://www.instagram.com/SAURABH_xt_0)).
 
 ---
 
@@ -51,7 +63,7 @@ Philosophy: "Security is not a product, but a continuous process."
 
 <div align="center">
 
-### 🔴 Offensive Security & Pentesting
+### 🔴 Offensive Security, Pentesting & Analysis
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Nmap-003366?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
@@ -61,6 +73,7 @@ Philosophy: "Security is not a product, but a continuous process."
   <img src="https://img.shields.io/badge/John_the_Ripper-4E2A84?style=for-the-badge&logo=target&logoColor=white" alt="John the Ripper" />
   <img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logo=fire&logoColor=white" alt="Hydra" />
   <img src="https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge&logo=wifi&logoColor=white" alt="Aircrack-ng" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
 </p>
 
 ### 💻 Languages & Development
@@ -87,46 +100,62 @@ Philosophy: "Security is not a product, but a continuous process."
 
 ---
 
-## 🚀 Featured Security Projects
+## 🚀 Flagship Security Projects
 
 <table align="center" width="100%">
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚔️ <a href="https://github.com/Saura0S/xtsec">XTSec</a></h3>
+      <p align="center">
+        <a href="https://github.com/Saura0S/xtsec/actions"><img src="https://github.com/Saura0S/xtsec/actions/workflows/ci.yml/badge.svg" alt="CI Status" /></a>
+        <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Audit-OWASP_Top_10-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
+      </p>
+      <p><b>Enterprise Web Vulnerability & Penetration Testing Assessment Suite</b>. Multi-vector audit engine that crawls routes, identifies defensive flaws (CORS, CSP, Secrets, Session Cookies, Sensitive Files), explains the exploit mechanism, business impact, and outputs server hardening patches.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ <a href="https://github.com/Saura0S/AegisWeb">AegisWeb</a></h3>
       <p align="center">
         <a href="https://github.com/Saura0S/AegisWeb/actions"><img src="https://github.com/Saura0S/AegisWeb/actions/workflows/ci.yml/badge.svg" alt="CI Status" /></a>
         <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dual--Report-SPA_%26_CISO-00f2fe?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
       </p>
       <p><b>Enterprise-Grade Web Security Auditor & Vulnerability Scanner</b>. Automates SSL/TLS compliance, security headers auditing, cookie attributes inspection, sensitive asset discovery, SPF/DMARC defense checks, and dual-format reporting (Executive Summary & OWASP Technical Deep-Dive).</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🕵️ <a href="https://github.com/Saura0S/ShadowOSINT">ShadowOSINT</a></h3>
       <p align="center">
         <a href="https://github.com/Saura0S/ShadowOSINT/actions"><img src="https://github.com/Saura0S/ShadowOSINT/actions/workflows/ci.yml/badge.svg" alt="CI Status" /></a>
         <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Recon-Subdomains_%26_Headers-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
       </p>
       <p><b>High-Performance Subdomain Reconnaissance & Threat Intel Suite</b>. Leverages Certificate Transparency logs (crt.sh), concurrent asynchronous DNS resolution, security header analysis, and generates interactive HTML/JSON intelligence dossiers.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔐 <a href="https://github.com/Saura0S/password-strength-checker">Password Strength Checker</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/GUI-Tkinter-green?style=flat-square" />
         <img src="https://img.shields.io/badge/Crypto-SHA--256-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
       </p>
       <p>Interactive desktop security tool evaluating password entropy, complexity metrics, actionable hardening suggestions, and real-time SHA-256 cryptographic hashing.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📖 <a href="https://github.com/Saura0S/TryHackMe-Pre-Security-Complete-Notes-By-Saura0s">TryHackMe Pre-Security Notes</a></h3>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">📖 <a href="https://github.com/Saura0S/TryHackMe-Pre-Security-Complete-Notes-By-Saura0s">TryHackMe Pre-Security Notes & Cheatsheets</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/TryHackMe-Pre--Security-red?style=flat-square&logo=tryhackme&logoColor=white" />
         <img src="https://img.shields.io/badge/Cheatsheet-PDF_%26_DOCX-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
       </p>
-      <p>Comprehensive structured reference notes and study guides covering Network Architectures (OSI/TCP-IP), Web Fundamentals, Linux CLI, and Windows Security.</p>
+      <p align="center">Comprehensive structured reference handbook and study guides covering Network Architectures (OSI/TCP-IP), Web Fundamentals, Linux CLI, and Windows Security.</p>
     </td>
   </tr>
 </table>
