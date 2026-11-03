@@ -159,6 +159,8 @@ Philosophy: "Security is not a product, but a continuous engineering process."
   </tr>
 </table>
 
+---
+
 ## 🐍 Live Contribution Activity
 
 <div align="center">
